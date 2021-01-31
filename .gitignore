@@ -6,6 +6,9 @@ __pycache__/
 # CSV files
 ratings.csv
 
+# Config
+config.py
+
 # C extensions
 *.so
 
